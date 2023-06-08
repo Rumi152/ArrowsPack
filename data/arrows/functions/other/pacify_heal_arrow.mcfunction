@@ -1,0 +1,1 @@
+execute as @e[type=arrow, nbt={CustomPotionEffects:[{Id:27, Amplifier:7b}]}] run data modify entity @s damage set value 0.01
