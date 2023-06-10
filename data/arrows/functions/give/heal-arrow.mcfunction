@@ -1,0 +1,1 @@
+give @s tipped_arrow{heal_arrow:1b,HideFlags:32,CustomPotionEffects:[{Id:27,Amplifier:7, Duration:20}],Potion:"minecraft:water",CustomPotionColor:11392153,display:{Name:'"Heal arrow"'}}

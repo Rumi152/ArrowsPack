@@ -1,0 +1,1 @@
+give @s tipped_arrow{flare_arrow:1b,HideFlags:32,CustomPotionEffects:[{Id:27,Amplifier:6, Duration:20}],Potion:"minecraft:water",CustomPotionColor:16760576,display:{Name:'"Flare"'}}
